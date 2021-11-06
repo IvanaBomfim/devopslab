@@ -22,6 +22,6 @@ deploy:
   provider: heroku
   api_key: $HEROKU_APP_KEY
   edge: true 
-  app: devoppslab-ivanabomfim
+  app: devopslab-ivanabomfim
   on:
       branch: main
